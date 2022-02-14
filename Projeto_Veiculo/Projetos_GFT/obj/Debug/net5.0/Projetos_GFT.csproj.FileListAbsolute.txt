@@ -1,0 +1,16 @@
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\bin\Debug\net5.0\Projetos_GFT.exe
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\bin\Debug\net5.0\Projetos_GFT.deps.json
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\bin\Debug\net5.0\Projetos_GFT.runtimeconfig.json
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\bin\Debug\net5.0\Projetos_GFT.runtimeconfig.dev.json
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\bin\Debug\net5.0\Projetos_GFT.dll
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\bin\Debug\net5.0\ref\Projetos_GFT.dll
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\bin\Debug\net5.0\Projetos_GFT.pdb
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\obj\Debug\net5.0\Projetos_GFT.csproj.AssemblyReference.cache
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\obj\Debug\net5.0\Projetos_GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\obj\Debug\net5.0\Projetos_GFT.AssemblyInfoInputs.cache
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\obj\Debug\net5.0\Projetos_GFT.AssemblyInfo.cs
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\obj\Debug\net5.0\Projetos_GFT.csproj.CoreCompileInputs.cache
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\obj\Debug\net5.0\Projetos_GFT.dll
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\obj\Debug\net5.0\ref\Projetos_GFT.dll
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\obj\Debug\net5.0\Projetos_GFT.pdb
+C:\Users\Anee\Documents\ASP.NET\GFTSTART_3_2022_DESAFIO\Projetos_GFT\Projetos_GFT\obj\Debug\net5.0\Projetos_GFT.genruntimeconfig.cache
